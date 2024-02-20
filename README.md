@@ -17,5 +17,3 @@ Este é um jogo Pong básico implementado em C++ utilizando a biblioteca Raylib.
 4. **Finalização do Jogo:**
    - O jogo continua até que o jogador decida fechar a janela.
 
-## Captura de Tela
-![Captura de Tela do Jogo](pong.png)
